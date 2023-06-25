@@ -1,1 +1,1 @@
-# hero-wars
+# Hero Wars
