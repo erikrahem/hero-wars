@@ -3,6 +3,11 @@ Beasts
 	Mammoth
 	Wolf
 
+Demons
+	Behemoth
+	Demon
+	Devil
+	
 Dragons
 	Dragon (Black)
 	Dragon (Green)
@@ -12,8 +17,3 @@ Dragons
 	
 Monsters
 	Cyclops
-
-Demons
-	Behemoth
-	Demon
-	Devil
