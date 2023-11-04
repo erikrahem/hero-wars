@@ -12,3 +12,6 @@ Fight waves of enemy monsters together.
 
 ## Knight Wars
 Fight epic RTS battles with your personalized armies.
+
+## Army Builder
+Create armies from Heroes, Champions, Knights, and Monsters
