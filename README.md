@@ -14,4 +14,4 @@ Fight waves of enemy monsters together.
 Fight epic RTS battles with your personalized armies.
 
 ## Army Builder
-Create armies from Heroes, Champions, Knights, and Monsters
+Create armies from Heroes, Champions, Knights, and Monsters.
