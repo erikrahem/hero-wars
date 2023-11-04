@@ -1,0 +1,19 @@
+Beasts
+	Cave Lion
+	Mammoth
+	Wolf
+
+Dragons
+	Dragon (Black)
+	Dragon (Green)
+	Dragon (Red)
+	Hydra
+	Wyvern
+	
+Monsters
+	Cyclops
+
+Demons
+	Behemoth
+	Demon
+	Devil
