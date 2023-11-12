@@ -9,6 +9,10 @@ Heroes vs heroes. (Maybe MOBA-inspired?)
 
 ## Last Stand
 Fight waves of enemy monsters together.
+  
+Unlock killed monsters.
+### Monsterpedia
+Kill count.
 
 ## Knight Wars
 Fight epic RTS battles with your personalized armies.
