@@ -21,5 +21,11 @@ Command ai allies' units.
   
 Delete them for points bonus.
 
+### Commander Battle
+Commander in person view
+
+### Total War
+RTS top-down view
+
 ## Army Builder
 Create armies from unlocked Heroes, Champions, Knights, and Monsters.
