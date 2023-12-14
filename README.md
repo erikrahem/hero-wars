@@ -19,3 +19,8 @@ Fight epic RTS battles with your personalized armies.
 
 ## Army Builder
 Create armies from Heroes, Champions, Knights, and Monsters.
+
+## RTS
+Control ai allies' units
+  
+Delete them for points bonus
