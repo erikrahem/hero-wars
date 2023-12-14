@@ -10,17 +10,16 @@ Heroes vs heroes. (Maybe MOBA-inspired?)
 ## Last Stand
 Fight waves of enemy monsters together.
   
-Unlock killed monsters.
 ### Monsterpedia
 Kill count.
 
 ## Knight Wars
 Fight epic RTS battles with your personalized armies.
+  
+### RTS
+Command ai allies' units.
+  
+Delete them for points bonus.
 
 ## Army Builder
-Create armies from Heroes, Champions, Knights, and Monsters.
-
-## RTS
-Control ai allies' units
-  
-Delete them for points bonus
+Create armies from unlocked Heroes, Champions, Knights, and Monsters.
