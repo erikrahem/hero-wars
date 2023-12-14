@@ -3,3 +3,5 @@ Warlock
 Demonology
   Demonism (Summoning)
   Demonhood (Possession)
+
+Can summon any creature that it's ever killed.
